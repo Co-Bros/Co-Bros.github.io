@@ -3,7 +3,6 @@ let urlsToCache = [
   '/',
   '/about',
   '/contact',
-  'apps'
 ];
 
 // Install a service worker
