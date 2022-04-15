@@ -1,0 +1,19 @@
+.container {
+    display: absolute;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height:100vh;
+    animation: appear 0.4s;
+}
+
+@media screen and (max-width:800px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}

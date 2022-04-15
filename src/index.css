@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap');
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: 'JetBrains Mono',monospace;
+  /*background: linear-gradient(to left,#6d6dee,#191970 );
+  background: -moz-linear-gradient(to left,#6d6dee,#191970 );
+  background: -ms-linear-gradient(to left,#6d6dee,#191970 );
+  background: -webkit-linear-gradient(to left,#6d6dee,#191970 );
+  background: -o-linear-gradient(to left,#6d6dee,#191970 );*/
+  background-image: url(../src/components/img/network.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+

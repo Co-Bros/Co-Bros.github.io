@@ -1,0 +1,30 @@
+.loader {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position: fixed;
+    width: 100%;
+    margin-top: 40vh;
+}
+
+.container {
+    padding: 0;
+    text-align: center;
+    animation: appear 0.4s;
+}
+
+.container h1 {
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+@media screen and (max-width:600px) {
+    .container h1 {
+        font-size: 40px;
+    }
+}
+
+@keyframes appear {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}

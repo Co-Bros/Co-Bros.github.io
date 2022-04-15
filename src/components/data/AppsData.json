@@ -1,0 +1,10 @@
+{"apps":[
+    {
+        "name":"E-Note",
+        "platform":"Windows",
+        "description":"A simple Microsft Notepad-like Text editor with some special features. For more information, report or others, contact akhilany123@gmail.com.",
+        "downloadLink":"https://drive.google.com/uc?export=download&id=1WoCltmaU_VY3hD_ct6qoUrYjrHp7j-dP",
+        "sourceLink":"https://github.com/AkhilanY/E-Note",
+        "iconLink":"https://drive.google.com/file/d/1BTKLP1hykMiI5QYt7zRTWiPbAv0PKmTq/view?usp=sharing"
+    }
+]}
