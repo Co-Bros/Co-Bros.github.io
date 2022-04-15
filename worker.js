@@ -1,4 +1,4 @@
-let CACHE_NAME = 'obros';
+let CACHE_NAME = 'cobros';
 let urlsToCache = [
   '/',
   '/about',
