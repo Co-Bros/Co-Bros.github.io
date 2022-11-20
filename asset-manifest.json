@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa3c354f.css",
+    "main.css": "/static/css/main.cae52382.css",
     "main.js": "/static/js/main.dbe8963c.js",
     "static/media/cobrain.png": "/static/media/cobrain.4db356d01583a8af868b.png",
     "static/media/final-cb-home.mp4": "/static/media/final-cb-home.01d130ad21491be473ca.mp4",
@@ -9,11 +9,11 @@
     "service-worker.js": "/service-worker.js",
     "static/media/icon.ico": "/static/media/icon.0d48fda25c821450cccc.ico",
     "index.html": "/index.html",
-    "main.fa3c354f.css.map": "/static/css/main.fa3c354f.css.map",
+    "main.cae52382.css.map": "/static/css/main.cae52382.css.map",
     "main.dbe8963c.js.map": "/static/js/main.dbe8963c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa3c354f.css",
+    "static/css/main.cae52382.css",
     "static/js/main.dbe8963c.js"
   ]
 }
